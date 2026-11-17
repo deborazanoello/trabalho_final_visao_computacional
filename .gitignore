@@ -1,8 +1,6 @@
-# Bases baixadas e índices (grandes; cada pessoa baixa a sua cópia)
+# Fotos originais e tudo o que os scripts geram (grandes; ficam só no computador)
 dados/
-
-# Medidas intermediárias da análise
-relatorios/medidas_*.csv
+saida/
 
 # Python
 __pycache__/
@@ -10,6 +8,7 @@ __pycache__/
 .pytest_cache/
 .venv/
 venv/
+.ipynb_checkpoints/
 
 # Sistema
 .DS_Store
